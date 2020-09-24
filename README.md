@@ -1,8 +1,13 @@
 # Introducción
 
 
+## Instrucciones
 
-# Instrucciones
+### Para visualizar mediante VisualStudioCode
+
+TODO
+
+### Para correr jupyter mediante docker
 
 Para comenzar debes [instalar](https://docs.docker.com/get-docker/) docker. 
 
