@@ -7,4 +7,4 @@ Para ver los contenidos, dirígete al [**Índice**](notebooks/indice.ipynb)
 
 # Contribuciones
 
-Ver [Contributing.md](contributing.md)
+Ver [Contributing.md](CONTRIBUTING.md)
